@@ -1,5 +1,5 @@
 # Bank Management System
-A simple Java-based GUI application for managing bank accounts, deposits, withdrawals, and transfers.
+A simple Java-based GUI application for managing bank accounts, deposits, withdrawals, and transfers.It allows users to create accounts, deposit and withdraw money, and check balances through a simple, menu-driven interface.
 
 ## Features
 - Create new accounts  
